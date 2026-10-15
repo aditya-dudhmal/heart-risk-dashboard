@@ -8,6 +8,8 @@ population and see prevalence patterns without touching code.
 
 **This is a pattern-exploration tool, not a diagnostic tool.**
 
+**Live demo:** https://heart-risk-dashboard-k3w7aktcqwcg7njxzayde6.streamlit.app/
+
 ## What it shows
 
 - Headline metrics for the filtered population: patient count, heart
